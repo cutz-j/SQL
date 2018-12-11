@@ -1,1 +1,1 @@
-select * from v$instance;
+CREATE TABLE Book;
